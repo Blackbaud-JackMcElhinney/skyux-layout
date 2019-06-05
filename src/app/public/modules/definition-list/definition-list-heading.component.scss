@@ -2,5 +2,8 @@
 @import "~@skyux/theme/scss/_compat/mixins";
 
 .sky-definition-list-heading {
+  line-height: initial;
+  margin-block-start: 0;
+  margin-block-end: 0;
   margin-bottom: $sky-margin-half;
 }
